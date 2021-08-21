@@ -1,0 +1,7 @@
+.container {
+    box-shadow: 0 1px 2px #ccc, 0 2px 32px #eee;
+    padding: 32px;
+    margin: 32px 10%;
+    border-radius: 8px;
+    color: #333;
+}

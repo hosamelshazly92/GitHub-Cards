@@ -1,0 +1,12 @@
+.field {
+    display: block;
+    padding: 4px;
+    margin-top: 16px;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+}
